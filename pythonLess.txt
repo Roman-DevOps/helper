@@ -1,0 +1,5 @@
+﻿Function imports
+However, we only really needed the sqrt function, and it can be frustrating to have to keep typing math.sqrt()
+
+It’s possible to import only certain variables or function from given module. Pulling in just a single function from a module is called a function import, and it’s done with the from keyword;
+ 
